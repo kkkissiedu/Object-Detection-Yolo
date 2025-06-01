@@ -136,3 +136,7 @@ cython_debug/
 *.swp
 *.swo
 *~
+
+
+# Folders
+Yolo_weights/
