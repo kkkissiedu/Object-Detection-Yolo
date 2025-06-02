@@ -140,3 +140,5 @@ cython_debug/
 
 # Folders
 Yolo_weights/
+Videos/
+Chapter 5-Running Yolo/Images/
