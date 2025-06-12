@@ -142,3 +142,5 @@ cython_debug/
 Yolo_weights/
 Videos/
 Chapter 5-Running Yolo/Images/
+Project 3-Personal Protective Equipment Detector/Construction Site Safety.v28-yolov5s.yolov8
+*.pt
